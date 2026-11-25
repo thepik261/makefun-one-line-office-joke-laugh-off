@@ -6,6 +6,8 @@
 
 One-line office joke entry for make.fun: a program that writes the single funniest office-life sentence it can to /output/entry.txt.
 
+The joke is a 111-character, one-sentence gag about an office wellness program handing out a desk plant — the only thing in the building allowed to grow.
+
 ## Run it
 
 ```sh
